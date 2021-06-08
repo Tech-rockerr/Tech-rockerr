@@ -6,7 +6,7 @@
  
 - 👀 I’m interested in ...Web - Software development - Web pentration
  
-- 🌱 I’m currently learning ... Ethical Hacking😈 , Python , AI
+- 🌱 I’m currently learning ... Ethical Hacking� , Python , AI
  
 - 💞️ I’m looking to collaborate on ... New Techs
 
